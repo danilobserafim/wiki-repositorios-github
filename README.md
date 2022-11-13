@@ -1,6 +1,6 @@
-#Wiki de repositórios do Github
+# Wiki de repositórios do Github
 
-###projeto desenvolvido em parceria e acompanhamento online da Digitial Innovation One
+### projeto desenvolvido em parceria e acompanhamento online da Digitial Innovation One
 
 Projeto criado para exercitar consumo de API rest utilizando
 a bibrioteca Axios para essas chamadas e a criação de leiouts ultilizando a biblioteca Styled components.
